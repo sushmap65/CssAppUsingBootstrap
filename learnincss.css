@@ -1,0 +1,43 @@
+.container {
+	width: 100%;
+}
+header {
+	background-color: green;
+	position: fixed;
+	left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+p {
+	color: grey;
+	font-weight: inherit;
+}
+.content {
+	margin-bottom: 3%;
+}
+footer {
+	background-color: black;
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.content {
+    padding-right: 30%
+}
+.aside {
+	width: 401%; 
+	height: 100%;
+}
+.text-color {
+	color: grey;
+	margin-top: 3%;
+	text-align: center;
+}
+.linksstatus {
+	text-align: center;
+}
